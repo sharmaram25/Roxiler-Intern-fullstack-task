@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin:0; }
+nav { background:#222; padding:10px; display:flex; gap:12px; align-items:center; }
+nav a, nav button { color:#fff; text-decoration:none; background:none; border:none; cursor:pointer; font-size:14px; }
+nav button { padding:4px 8px; border:1px solid #555; border-radius:4px; }
+.page { padding:20px; }
+table { border-collapse: collapse; width:100%; margin-top:12px; }
+th, td { border:1px solid #ddd; padding:6px 8px; text-align:left; }
+th { background:#f3f3f3; cursor:pointer; }
+input { margin:4px; padding:6px; }
+button { margin:2px; }
+.err { color:#b00; margin-top:6px; }
